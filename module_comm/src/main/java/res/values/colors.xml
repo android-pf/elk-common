@@ -5,14 +5,10 @@
     <color name="cD81B60">#D81B60</color>
     <color name="cFFFFFF">#FFFFFF</color>
     <color name="cC7C7C7">#C7C7C7</color>
-    <color name="c00000000">#00000000</color>
-    <color name="c000000">#000000</color>
-    <color name="cBBBBBB">#BBBBBB</color>
     <color name="c999999">#999999</color>
     <color name="c666666">#666666</color>
     <color name="c333333">#333333</color>
     <color name="cEF3D43">#EF3D43</color>
-    <color name="cF7F7F7">#F7F7F7</color>
     <color name="cFF5555">#FF5555</color>
     <color name="cEEEEEE">#EEEEEE</color>
     <color name="c48BA00">#48BA00</color>
@@ -96,20 +92,15 @@
     <!-- 礼物 -->
     <color name="cE6000000">#E6000000</color>
     <color name="cFF8C00">#FF8C00</color>
-    <color name="cFFFFFF">#FFFFFF</color>
     <color name="cFF0000">#FF0000</color>
     <color name="c303030">#303030</color>
-    <color name="c000000">#000000</color>
     <color name="c40000000">#40000000</color>
     <color name="cFF8989">#FF8989</color>
-    <color name="c00000000">#00000000</color>
 
     <color name="c020714">#020714</color>
     <color name="c56749E">#56749E</color>
     <color name="cEBF4FF">#EBF4FF</color>
     <color name="c6B82A8">#6B82A8</color>
-    <color name="c00000000">#00000000</color>
-    <color name="live_voice_room_btn_text">@color/live_voice_room_text_color_disable</color>
     <color name="cFF0062E3">#FF0062E3</color>
 
     <color name="cFF000000">#FF000000</color>
@@ -121,10 +112,10 @@
 
 
     <!-- 灰色背景 -->
-        <color name="cEDEDED">#EDEDED</color>
-        <color name="cF2F2F2">#F2F2F2</color>
-        <color name="cF7F7F7">#F7F7F7</color>
-        <color name="cF4F4F4">#F4F4F4</color>
+    <color name="cEDEDED">#EDEDED</color>
+    <color name="cF2F2F2">#F2F2F2</color>
+    <color name="cF7F7F7">#F7F7F7</color>
+    <color name="cF4F4F4">#F4F4F4</color>
 
     <!-- 黑色字体-->
     <color name="c181818">#181818</color>
@@ -144,12 +135,10 @@
     <color name="c066fff">#066fff</color>
 
     <color name="cDEDEDE">#DEDEDE</color>
-    <color name="cffffff">#ffffff</color>
 
     <!--    <color name="transparent">#00000000</color>-->
     <!--    <color name="black">#000000</color>-->
     <color name="cb2b2b2">#b2b2b2</color>
-    <color name="c999999">#999999</color>
     <color name="c39000000">#39000000</color>
     <color name="cB3000000">#B3000000</color>
     <color name="cc6c6c6">#c6c6c6</color>
@@ -162,7 +151,6 @@
 
     <color name="c016fff">#016fff</color>
 
-    <color name="006EFF">#006EFF</color>
     <color name="c888888">#888888</color>
 
     <!-- 积极钮色值 -->
@@ -180,11 +168,8 @@
     <!-- 聊天昵称/时间条背景色值 -->
     <!-- 聊天发送/光标色值 -->
     <color name="c70C160">#70C160</color>
-    <color name="c737373">#737373</color>
-    <color name="c737373">#737373</color>
     <color name="cffffff">#ffffff</color>
     <color name="c006EFF">#006EFF</color>
-    <color name="c999999">#999999</color>
     <color name="cFEAA29">#FEAA29</color>
     <color name="cF8F8F8">#F8F8F8</color>
     <color name="cB1B1B1">#B1B1B1</color>
