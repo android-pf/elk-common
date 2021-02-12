@@ -78,6 +78,11 @@ dependencies {
     //EventBus
     implementation 'org.greenrobot:eventbus:3.2.0'
 
+    //权限
+    implementation 'com.github.tbruyelle:rxpermissions:0.10.2'
+    //替代sp的优质存储方案，腾讯开源
+    implementation 'com.tencent:mmkv-static:1.1.1'
+
     ////------
     api 'com.alibaba:arouter-api:1.4.0'
     // arouter-compiler 的注解依赖需要所有使用 ARouter 的 module 都添加依赖

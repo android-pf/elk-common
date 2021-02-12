@@ -18,7 +18,6 @@
     <color name="cc4c4c4">#c4c4c4</color>
     <color name="c00a5ff">#00a5ff</color>
     <color name="ce5e5e5">#e5e5e5</color>
-    <color name="cdddddd">#dddddd</color>
     <color name="cf9f9f9">#f9f9f9</color>
     <color name="cf6f6f6">#f6f6f6</color>
     <color name="cFF4B50">#FF4B50</color>
@@ -168,7 +167,6 @@
     <!-- 聊天昵称/时间条背景色值 -->
     <!-- 聊天发送/光标色值 -->
     <color name="c70C160">#70C160</color>
-    <color name="cffffff">#ffffff</color>
     <color name="c006EFF">#006EFF</color>
     <color name="cFEAA29">#FEAA29</color>
     <color name="cF8F8F8">#F8F8F8</color>
