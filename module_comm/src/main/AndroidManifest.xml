@@ -3,6 +3,6 @@
     package="com.pf.module_comm">
 
     <application>
-        <activity android:name=".CommActivity"></activity>
+<!--        <activity android:name=".CommActivity"></activity>-->
     </application>
 </manifest>

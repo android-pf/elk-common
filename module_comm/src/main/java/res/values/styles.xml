@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+
+    <style name="myNavigationDrawerStyle" >
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <!--启动时，会出现黑屏或白屏的现象，因为当布局文件尚未加载时，会先显示Window的窗口背景，黑屏或白屏即Window的窗口背景-->
+    <style name="AppTheme.Launcher" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!--应用启动快，界面会先显示背景图，然后再刷新其他控件，刷新不同步-->
+    <style name="AppTheme.LauncherBg" parent="AppTheme.Launcher">
+        <!-- windowBackground可以设置为一张图片，也可以是能解析出图片的XML文件-->
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+</resources>
